@@ -1,0 +1,17 @@
+.PurchaseForm__container {
+  width: 500px;
+
+  text-align: left;
+  padding: 20px;
+  margin: 50px auto;
+
+  border: 1px solid black;
+}
+
+.PurchaseForm__header {
+  text-align: center;
+}
+
+.PurchaseForm__section {
+  margin: 50px 0 25px 0 ;
+}
